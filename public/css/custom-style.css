@@ -1,0 +1,108 @@
+.select2-container {
+    z-index: 99999;
+    width: 100%!important;
+}
+div#page-wrapper {
+    background: url("../background.jpg")!important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.nav-tabs .active {
+    background: #fff !important;
+}
+.login{
+  background: url(background.jpg);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+}
+.table-bordered > thead > tr > th,tfoot tr, thead tr {
+	background: #f7ba51 !important;
+}
+body{
+  background:#01579b;
+}
+#page-wrapper{
+  padding:0px 0px !important;
+}
+
+.nav > li.active,.navbar-default .nav > li > a:focus {
+  background: #fff;
+  color:#01579b;
+
+}
+.nav > li > a{
+  color:#fff;
+}
+.nav > li.active > a{
+  color:#F79517 !important;
+}
+
+.nav>li>a:hover{
+  background: #fff !important;
+  color:#999c9e !important;
+
+}
+.nav > li.active {
+    border-left:  #fff;
+}
+body.mini-navbar .nav-header,.btn-primary {
+  background-color: #F79517;
+  border-color: #F79517;
+  color: #FFFFFF;
+
+}
+#wrapper{
+    background: #01579B !important;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #F79517 !important;
+    color: white;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.btn-primary.active:focus{
+background-color:#F79517;
+
+}
+
+tfoot td {
+	font-weight:bold;
+}
+ul.nav-second-level {
+  background: #01579B;
+}
+.nav-header {
+
+    background-color: #ffffff;
+    background-image: none;
+    border-bottom: 1px solid;
+
+    padding-top: 5px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 15px;
+
+}
+
+.ibox-title h5, .navbar-fixed-top, .navbar-static-top {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.nav-tabs > li > a {
+    color: #fff !important;
+  }
+
+  .modal-body h3.m-t-none.m-b.navbar-static-top {
+    background: none;
+      color: #01579B
+}
+
+
+
